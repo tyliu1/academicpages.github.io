@@ -14,6 +14,7 @@ redirect_from:
 
 Recent News
 ======
-* May 12, 2019. One paper accepted to IJCAI 2019.
-* Apr. 25, 2018. I joined Harvest Fund as a research intern.
-* Oct. 24, 2017. I joined MSRA as a research intern.
+* May 12, 2019. One paper accepted to [IJCAI 2019](https://www.ijcai19.org/).
+* Apr. 25, 2018. I joined the Intelligent Investment Group of Harvest Fund as research intern.
+* Oct. 24, 2017. I joined the Software Analysis Group of [MSRA](https://www.msra.cn/) as research intern.
+* Mar. 10, 2017. I joined the XiaoIce Image Sense Team of Microsoft as research intern.
