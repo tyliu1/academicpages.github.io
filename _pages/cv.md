@@ -26,19 +26,19 @@ Education
 Experience
 ======
 * Harvest Fund (Apr. 2018 ~ June 2018)
-  * Research Intern [at] Intelligent Investment Group
+  * Research Intern @ Intelligent Investment Group
 
 * Microsoft Research Asia (Oct. 2017 ~ Mar. 2018)
-  * Research Intern [at] Software Analysis Group
+  * Research Intern @ Software Analysis Group
 
 * Microsoft China (Mar. 2017 ~ Sept. 2017)
-  * Research Intern [at] Search Technology Center - XiaoIce Image Sense Team
+  * Research Intern @ Search Technology Center - XiaoIce Image Sense Team
 
 * Baidu Corp. (Sept. 2016 ~ Nov. 2016)
-  * Development Intern [at] Big Data Group - Fengchao Original Advertising Team
+  * Development Intern @ Big Data Group - Fengchao Original Advertising Team
 
 * Microsoft China (June 2016 ~ Sept. 2016)
-  * Development Intern [at] Windows and Device Group
+  * Development Intern @ Windows and Device Group
 
 Awards
 ======
