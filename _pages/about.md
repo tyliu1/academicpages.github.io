@@ -9,7 +9,9 @@ redirect_from:
 ---
 
 I am a Ph.D. student in the [School of EECS](http://eecs.pku.edu.cn/) at [Peking University](https://www.pku.edu.cn/), advised by Prof. [Lingyang Song](http://net.pku.edu.cn/songly/) and [Kaigui Bian](http://net.pku.edu.cn/~bkg/).
+
 My research interests lie in the general area of machine learning, particularly in reinforcement learning and deep learning, as well as their applications in computer games, multi-agent systems.
+
 I received my Master's Degree in [Peking University](https://www.pku.edu.cn/) and Bachelor's Degree in [Zhejiang University](http://www.zju.edu.cn/).
 
 Recent News
