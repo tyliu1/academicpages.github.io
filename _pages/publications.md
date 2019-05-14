@@ -1,16 +1,9 @@
 ---
-layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+<b>Playing Card-based RTS Games with Deep Reinforcement Learning</b> <br> 
+<b>Tianyu Liu</b>, Zijie Zheng, Hongchang Li, Kaigui Bian, Lingyang Song.
+<i>The 28th International Joint Conference on Artificial Intelligence</i>. <b>IJCAI 2019</b>.
