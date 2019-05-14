@@ -1,7 +1,7 @@
 ---
 <!-- layout: archive -->
 title: "Tianyu Liu (刘天宇)"
-permalink: /cv/
+permalink: /cv_new/
 author_profile: true
 redirect_from:
   - /resume
