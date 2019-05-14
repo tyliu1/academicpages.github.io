@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -53,3 +53,5 @@ Skills
 * Programming Languages: Python, C, C++
 * Deep Learning Framework: PyTorch, TensorFlow
 * English Proficiency: TOEFL (93), CET-6 (569), CET-4 (583)
+
+* test
