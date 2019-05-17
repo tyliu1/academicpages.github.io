@@ -12,8 +12,6 @@ redirect_from:
 Education
 ======
 * <b>Ph.D. in Electrical Engineering</b>, <b>Peking University</b>, Beijing, China
-  * Future IoT Lab, School of Electronics Engineering and Computer Science
-  * Advisor: Lingyang Song, Kaigui Bian
 
 * <b>M.S. in Software Engineering</b>, <b>Peking University</b>, Beijing, China
 
