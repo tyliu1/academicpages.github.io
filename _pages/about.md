@@ -1,13 +1,15 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: ""
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+About Me
+======
 * I am a Ph.D. student of [Future IoT Lab](http://net.pku.edu.cn/songly/iotlab/index.html) in the [School of EECS](http://eecs.pku.edu.cn/) at [Peking University](https://www.pku.edu.cn/), advised by Prof. [Lingyang Song](http://net.pku.edu.cn/songly/) and Prof. [Kaigui Bian](http://net.pku.edu.cn/~bkg/).
 * My research interests lie in the general area of machine learning, particularly in reinforcement learning and deep learning, as well as their applications in games and multi-agent systems.
 * I received my Master's Degree in [Peking University](https://www.pku.edu.cn/) and Bachelor's Degree in [Zhejiang University](http://www.zju.edu.cn/).
