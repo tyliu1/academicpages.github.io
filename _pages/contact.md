@@ -1,9 +1,12 @@
 ---
 layout: archive
-title: "Contact"
+title: ""
 permalink: /contact/
 author_profile: true
 ---
+
+Contact
+======
 School of EECS, Peking University<br>
 Science Building No. 2, Yiheyuan Road No. 5,<br>
 Haidian District, Beijing, China<br>
