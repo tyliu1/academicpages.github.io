@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Tianyu Liu"
 title_separator          : "-"
 name                     : &name "Tianyu Liu"
-description              : &description "Ph.D. student, school of EECS, PKU"
+description              : &description "Ph.D. student, EECS, PKU"
 url                      : https://tyliu1.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tyliu1/tyliu1.github.io"
@@ -79,7 +79,7 @@ analytics:
 author:
   name             : "Tianyu Liu"
   avatar           : "tianyuliu.jpg"
-  bio              : "Ph.D. student, school of EECS, PKU"
+  bio              : "Ph.D. student, EECS, PKU"
   location         : "Beijing, China"
   employer         : 
   googlescholar    :
@@ -91,7 +91,7 @@ author:
   flickr           :
   facebook         : 
   foursquare       :
-  github           : "https://github.com/tyliu1"
+  github           : "tyliu1"
   google_plus      :
   keybase          :
   instagram        : 
