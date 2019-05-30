@@ -19,9 +19,6 @@ Education
 
 Experience
 ======
-* <b>Harvest Fund</b> (Apr. 2018 ~ June 2018)
-  * Research Intern @ Intelligent Investment Group
-
 * <b>Microsoft Research Asia</b> (Oct. 2017 ~ Mar. 2018)
   * Research Intern @ Software Analysis Group
 
