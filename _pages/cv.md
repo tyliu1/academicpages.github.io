@@ -33,17 +33,3 @@ Experience
 
 * <b>Microsoft China</b> (June 2016 ~ Sept. 2016)
   * Development Intern @ Windows and Device Group
-
-Awards
-======
-* Finals Ranking 8th, <i>The 1st UBIQUANT Quantitative Trading Contest</i>, Dec. 2017
-* Top 10%, <i>O2O Coupons Forecast</i>, <i>Alibaba Tianchi Big Data Contest</i>, Oct. 2016
-* Top 2%, <i>Music Trends Forecast</i>, <i>Alibaba Tianchi Big Data Contest</i>, June 2016
-* Third Prize, <i>The 15th Peking University Programming Contest</i>, May 2016
-* Top 6%, <i>The 6th CCF Certified Software Professionals</i>, Nov. 2015
-
-Skills
-======
-* Programming Languages: Python, C, C++
-* Deep Learning Framework: PyTorch, TensorFlow
-* English Proficiency: TOEFL (93), CET-6 (569), CET-4 (583)
