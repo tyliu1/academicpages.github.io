@@ -1,1 +1,1 @@
-[Welcome to my personal page!](https://tyliu1.github.io/)
+[Welcome to my home page!](https://tyliu1.github.io/)
