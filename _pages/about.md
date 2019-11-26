@@ -18,7 +18,7 @@ Recent News
 ======
 * May 2019. One paper accepted to [IJCAI 2019](https://www.ijcai19.org/).
 * June 2018. One paper accepted to [CyberSciTech 2018](http://cyber-science.org/2018/).
-* Oct. 2017. I joined the Software Analysis Group of MSRA as research intern.
-* Mar. 2017. I joined the Search Technology Center of Microsoft as research intern.
-* Sept. 2016. I joined the Big Data Group of Baidu as development intern.
-* June 2016. I joined the Windows and Device Group of Microsoft as development intern.
+* Oct. 2017. I joined the Software Analysis Group of MSRA as intern.
+* Mar. 2017. I joined the Search Technology Center of Microsoft as intern.
+* Sept. 2016. I joined the Big Data Group of Baidu as intern.
+* June 2016. I joined the Windows and Device Group of Microsoft as intern.
