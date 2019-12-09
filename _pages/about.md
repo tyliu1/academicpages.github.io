@@ -14,6 +14,10 @@ About Me
 * My research focuses on reinforcement learning, especially its applications on video games and computer vision.
 * I received my Master's Degree from Peking University and Bachelor's Degree from [Zhejiang University](http://www.zju.edu.cn/english/). I have also spent time at research labs of [MSRA](https://www.msra.cn/), [Microsoft](https://www.microsoft.com/zh-cn) and [Baidu](https://www.baidu.com/).
 
+Professional Service
+======
+Technical Program Committee: IEEE WCNC 2020
+
 Recent News
 ======
 * May 2019. One paper accepted to [IJCAI 2019](https://www.ijcai19.org/).
