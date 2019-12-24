@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-Professional Service
+Academic Service
 ======
 Technical Program Committee: IEEE WCNC 2020
 
